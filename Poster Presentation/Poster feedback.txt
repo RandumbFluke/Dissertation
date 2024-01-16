@@ -1,9 +1,0 @@
-Report feedback:
-- Mention what the issue with using maya and unity is rather than directing to blog //
-- Has any of my research shifted my initial understanding //
-
-Poster:
-- Include images (graphics, stills) / examples of work in poster
-- Use images to dumb down text
-- Demonstration of research 
-- Reduce text size 
